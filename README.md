@@ -14,7 +14,7 @@ the fixed menu bar at the top of the page and allow the page to scroll properly.
 
 ## Authors
 
-* **Mike Walsh - *Initial work* - [mpwalsh8](https://github.com/mpwalsh8)
+**Michael Walsh** - *Initial work* - [mpwalsh8](https://github.com/mpwalsh8)
 
 ## License
 
