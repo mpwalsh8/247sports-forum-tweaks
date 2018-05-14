@@ -5,7 +5,7 @@ the fixed menu bar at the top of the page and allow the page to scroll properly.
 
 ### Installing
 
-* Download Chrome Extension from GitHub
+* [Download Chrome Extension](https://github.com/mpwalsh8/247sports-forum-tweaks/archive/master.zip) from GitHub
 * Unzip Extension to a known location (e.g. Dropbox so it is available on all computers you use)
 * Open the Chrome Extensions page - enter **chrome://extensions** in the Chrome address bar
 * Drag and Drop the unzipped folder containing the extension onto the Chrome Extensions page
