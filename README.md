@@ -7,7 +7,7 @@ the fixed menu bar at the top of the page and allow the page to scroll properly.
 
 * Download Chrome Extension from GitHub
 * Unzip Extension to a known location (e.g. Dropbox so it is available on all computers you use)
-* Open [Chrome Extension](chrome://extensions) Page
+* Open the Chrome Extensions page - enter **chrome://extensions** in the Chrome address bar
 * Drag and Drop the unzipped folder containing the extension onto the Chrome Extensions page
 * Visit a 247Sports.com forum
 
