@@ -1,0 +1,31 @@
+/*
+ * CSS fixes to modify behavior of 247Sports.com forums
+ *
+ */
+
+div.adhesion-block {
+    display: none !important;
+}
+
+header.topnav {
+    margin-top: 0px !important;
+}
+
+#leader_bottom {
+    display: none !important;
+}
+
+body:not(.skybox-loaded) .topnav {
+    height: 0px !important;
+    margin-top: 0px !important;
+}
+
+.nonsubscribe .nav-bar--fixed, .nav-bar--fixed {
+    top: 0px !important;
+    position: relative !important;
+    padding-bottom: 200px;
+}
+
+div.brdinfo_blk {
+    margin-top: 30px !important;
+}

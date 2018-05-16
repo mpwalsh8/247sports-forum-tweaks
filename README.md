@@ -3,6 +3,8 @@
 Chrome Extension to modify a 247spports.com message forums HTML / CSS to disable
 the fixed menu bar at the top of the page and allow the page to scroll properly.
 
+This is a quick and dirty hack to make the 247Sports.com forums less annoying.
+
 ### Installing
 
 * [Download Chrome Extension](https://github.com/mpwalsh8/247sports-forum-tweaks/archive/master.zip) from GitHub

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "24/7 Sports Forums Sanity Helper",
+  "version": "0.1.0",
+  "description": "Chrome extension for 247Sports.com to make the site more readable.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://247sports.com/*"]
+  }]
+
+}
